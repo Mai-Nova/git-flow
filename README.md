@@ -66,10 +66,10 @@
 - 리뷰어가 피드백을 남기면 반영 후 `push`
 - 모든 리뷰가 완료되면 Merge 버튼 클릭
 
-  - 참고: `Create a merge commit`, `Squash and Merge`, `Rebase and Merge` 차이확
-    인해보면 좋음
+  - 참고: `Create a merge commit`, `Squash and Merge`, `Rebase and Merge` 차이를
+    확인하면 좋음
 
-- 단, 지금은 테스트 중임으로, 리뷰어가 없어도 본인이 Merge 가능
+- 단, 지금은 테스트 중이므로, 리뷰어가 없어도 본인이 Merge 가능
 - 실제 프로젝트에서는 1명 이상의 리뷰가 완료돼야 Merge 가능하도록 설정 예정
 
 ---
@@ -93,4 +93,4 @@ git push origin --delete feature/shchoi
 
 - `main`에 직접 push 불가
 - 커밋 메시지 팀 컨벤션 정하고 통일
-- 기능 단위로 브랜치 관리 및 PR 자주 올려줍니다.
+- 기능 단위로 브랜치 관리 및 PR 자주 올리기
