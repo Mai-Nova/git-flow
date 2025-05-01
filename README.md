@@ -20,7 +20,9 @@
 
 ## 브랜치 생성
 
-과제2. `feature/{이름이니셜}` 브랜치 생성 및 이동예시: `feature/shchoi`
+과제2. `feature/{이름이니셜}` 브랜치 생성 및 이동
+
+예시: `feature/shchoi`
 
 - `main`에서 최신 코드 기준으로 브랜치 생성
 
