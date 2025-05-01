@@ -81,7 +81,7 @@
 - CLI 혹은 GitHub 웹사이트에서 머지한 브랜치 삭제
 
 ```bash
-git branch -d feature/shchoi
+git branch -D feature/shchoi
 git push origin --delete feature/shchoi
 ```
 
